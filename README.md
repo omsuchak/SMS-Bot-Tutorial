@@ -24,6 +24,8 @@ I will walk you through how I made this SMS bot, so you can do the same.
 
 ### Part 1: Python File
 
+![alt text](http://blog.klocwork.com/wp-content/uploads/fly-images/10699/python-logo-348x350-c.png "Python Logo")
+
 Create a baseline 'main.py' that you can customize to your needs. 
 Here's an example:
 
@@ -45,6 +47,8 @@ def incoming_sms():
 ```
 
 ### Part 2: Heroku App
+
+![alt text](https://www.perfect.org/images/heroku-logo.jpg "Heroku Logo")
 
 [Great link for reference](https://devcenter.heroku.com/articles/getting-started-with-python)
 
@@ -107,6 +111,8 @@ to see the logs of your project
 **Note: You are using a free Heroku subscription, but you may incur costs if you scale up your app.**
 
 ### Part 3: Twilio
+
+![alt text](https://www.twilio.com/marketing/bundles/marketing/img/favicons/favicon.ico "Twilio Logo")
 
 1. Go to your Twilio Account and buy a phone number. It will be **$1/month**
 2. Go to 'Configure' under the phone number. Find 'Messaging.'
