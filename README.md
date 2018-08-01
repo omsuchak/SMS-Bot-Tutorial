@@ -48,7 +48,7 @@ def incoming_sms():
 
 ### Part 2: Heroku App
 
-![alt text](https://www.perfect.org/images/heroku-logo.jpg "Heroku Logo")
+![alt text](https://res-3.cloudinary.com/crunchbase-production/image/upload/c_lpad,h_256,w_256,f_auto,q_auto:eco/v1491420676/cenlvst0fgs8ejx12n8u.png "Heroku Logo")
 
 [Great link for reference](https://devcenter.heroku.com/articles/getting-started-with-python)
 
